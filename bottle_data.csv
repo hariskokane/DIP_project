@@ -1,0 +1,35 @@
+Bottle Number,Cap,Label,Plastic,Status,Day,Date,Time
+1,Detected,Not Detected,Good,Non-Defective,Thursday,06/11/25,12:24:06
+2,Detected,Detected,Good,Non-Defective,Thursday,06/11/25,12:24:08
+3,Detected,Detected,Good,Non-Defective,Thursday,06/11/25,12:24:13
+4,Detected,Detected,Good,Non-Defective,Thursday,06/11/25,12:24:50
+5,Detected,Detected,Good,Non-Defective,Thursday,06/11/25,12:24:52
+6,Detected,Detected,Good,Non-Defective,Thursday,06/11/25,12:24:55
+7,Detected,Not Detected,Good,Non-Defective,Thursday,06/11/25,12:25:27
+8,Detected,Not Detected,Good,Non-Defective,Thursday,06/11/25,12:25:32
+9,Detected,Not Detected,Good,Non-Defective,Thursday,06/11/25,12:26:12
+11,Detected,Detected,Good,Non-Defective,Thursday,06/11/25,12:26:14
+12,Detected,Not Detected,Good,Non-Defective,Thursday,06/11/25,12:26:16
+13,Detected,Not Detected,Good,Non-Defective,Thursday,06/11/25,12:26:36
+1,Detected,Not Detected,Good,Defective,Thursday,06/11/25,12:35:00
+2,Detected,Missing,Good,Defective,Thursday,06/11/25,12:35:02
+3,Detected,Not Detected,Good,Defective,Thursday,06/11/25,12:35:04
+4,Detected,Not Detected,Good,Defective,Thursday,06/11/25,12:35:09
+5,Not Detected,Detected,Good,Defective,Thursday,06/11/25,12:35:27
+6,Detected,Detected,Good,Non-Defective,Thursday,06/11/25,12:35:29
+1,Not Detected,Missing,Good,Defective,Thursday,06/11/25,12:42:31
+2,Detected,Not Detected,Good,Defective,Thursday,06/11/25,12:43:10
+3,Detected,Missing,Good,Defective,Thursday,06/11/25,12:43:23
+1,Not Detected,Not Detected,Good,Defective,Thursday,06/11/25,12:47:06
+2,Detected,Missing,Good,Defective,Thursday,06/11/25,12:47:29
+1,Not Detected,Detected,Good,Defective,Thursday,06/11/25,12:57:56
+2,Detected,Missing,Good,Defective,Thursday,06/11/25,12:58:14
+3,Detected,Missing,Good,Defective,Thursday,06/11/25,12:58:27
+10,Detected,Not Detected,Good,Defective,Thursday,06/11/25,12:58:36
+1,Detected,Missing,Good,Defective,Thursday,06/11/25,13:05:25
+1,Not Detected,Detected,Good,Defective,Thursday,06/11/25,13:09:10
+2,Detected,Detected,Good,Non-Defective,Thursday,06/11/25,13:09:14
+1,Detected,Detected,Good,Non-Defective,Thursday,06/11/25,13:17:05
+2,Detected,Missing,Good,Defective,Thursday,06/11/25,13:18:21
+1,Not Detected,Not Detected,Good,Defective,Thursday,06/11/25,13:22:27
+2,Detected,Detected,Good,Non-Defective,Thursday,06/11/25,13:22:56
